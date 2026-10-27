@@ -1,0 +1,27 @@
+2025-09-09 17:38:32 | ERROR: Table 'alamin.departments' doesn't exist
+SQL: SELECT * FROM `departments` WHERE status=1 
+
+2025-09-09 17:38:40 | ERROR: Table 'alamin.departments' doesn't exist
+SQL: SELECT * FROM `departments` WHERE status=1 
+
+2025-09-09 17:41:45 | ERROR: Table 'alamin.departments' doesn't exist
+SQL: SELECT * FROM `departments` WHERE status=1 
+
+2025-09-09 17:42:18 | ERROR: Table 'alamin.departments' doesn't exist
+SQL: SELECT * FROM `departments` WHERE status=1 
+
+2025-09-09 17:42:50 | ERROR: Table 'alamin.departments' doesn't exist
+SQL: SELECT * FROM `departments` WHERE status=1
+
+2025-09-09 17:42:54 | ERROR: Table 'alamin.departments' doesn't exist
+SQL: SELECT * FROM `departments` WHERE status=1 
+
+2026-10-27 08:46:39 | ERROR: Table 'alamin.notes' doesn't exist
+SQL: SELECT * FROM `notes` WHERE status=1
+
+2026-10-27 08:46:46 | ERROR: Table 'alamin.departments' doesn't exist
+SQL: SELECT * FROM `departments` WHERE status=1
+
+2026-10-27 08:46:53 | ERROR: Table 'alamin.departments' doesn't exist
+SQL: SELECT * FROM `departments` WHERE status=1 
+

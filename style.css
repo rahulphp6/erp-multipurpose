@@ -1,0 +1,33 @@
+.approveNeed,.partUsed {
+	    border: 1px solid #ddd;
+    padding: 5px;
+    background: #eee;
+    overflow-y:auto; 
+}
+.approveNeed .formGroup div{padding: 0 3px}
+.ApprovalNeeded #example1_filter label:before{
+	content: "Approved / ";
+}
+.ajaxTbl,.searchTbl{border: 1px solid #ddd;width: 100%;margin-bottom: 7px}
+.ajaxTbl td,.ajaxTbl th{padding:0 3px;border: 1px solid #ddd}
+.searchTbl td,.searchTbl th{padding:0 3px;border: 1px solid #ddd}
+.testingMode{
+	position: absolute;
+	z-index: 99999999;
+	background: #fff;
+	border: 5px dotted red;
+	padding: 20px;
+	width: 100%;
+}
+.addAcc,.FetchDetails{
+	    border: 1px solid #ddd;
+    padding: 10px;
+    background: #eee;
+}
+.custom-file-input {
+     opacity: 1; 
+    padding-top: 4px;
+    padding-left: 4px;
+}
+.btnForm{display: inherit;margin: 0px 2px}
+th{text-transform: capitalize;}
